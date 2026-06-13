@@ -15,9 +15,6 @@
 | **Alumno** | Wilfri Solano Frias |
 | **Matrícula** | 2024-2364 |
 | **Asignatura** | Seguridad de Redes |
-| **Docente** | Jonathan Rondo |
-| **Sección** | Viernes |
-| **Fecha** | 12/06/2026 |
 
 [📹 Video Demostrativo](https://youtu.be/laIuXaKKIYc) · [📂 Repositorio](https://github.com/wilfrisfsudo/DTP-VLAN-Hopping)
 
