@@ -16,7 +16,7 @@
 | **Matrícula** | 2024-2364 |
 | **Asignatura** | Seguridad de Redes |
 
-[📹 Video Demostrativo](https://youtu.be/laIuXaKKIYc) · [📂 Repositorio](https://github.com/wilfrisfsudo/DTP-VLAN-Hopping)
+[📹 Video Demostrativo](https://youtu.be/laIuXaKKIYc) · [📂 Repositorio]([https://github.com/wilfrisfsudo/DTP-VLAN-Hopping](https://github.com/wilfrisf-sudo))
 
 </div>
 
